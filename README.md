@@ -1,4 +1,3 @@
-# Readme.md
 <p>Welcome to my page! </br> I'm Nalan Kara, Fullstack developer from <b> Bremen, Germany</b>
                                                                            
                                                                            
