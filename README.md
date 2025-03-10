@@ -1,7 +1,9 @@
-<p>Welcome to my page! </br> I'm Nalan Kara, Fullstack developer from <b> Bremen, Germany</b>
-                                                                           
-                                                                           
-My landscape is to travel
+<p>Welcome to my page! 
+</br> I'm Nalan Kara ⚙️
+
+- i'm Fullstack Software Engineer from <b> Bremen, Germany</b>
+                                                              
+- My landscape is to travel 🌍 
 
 <h3>Things I code with</h3>
 <p>
