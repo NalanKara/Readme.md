@@ -1,17 +1,7 @@
-<p>Welcome to my page! 
-</br> I'm Nalan Kara ⚙️
+# Profile README moved
 
-- i'm Fullstack Software Engineer from <b> Bremen, Germany</b>
+The GitHub profile overview for **Nalan Kara** now lives in the special profile repository:
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=Python&logoColor=green" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+**→ [github.com/NalanKara/NalanKara](https://github.com/NalanKara/NalanKara)** (shown on [github.com/NalanKara](https://github.com/NalanKara))
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/NalanKara" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/nalan-kara/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+Portfolio: [nalankara.de](https://nalankara.de)
